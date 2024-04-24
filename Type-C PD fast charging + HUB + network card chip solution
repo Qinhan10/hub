@@ -1,0 +1,25 @@
+　　The Type-C interface supports charging, USB communication, DP display and other functions. It is widely used in compliance with the trend of lightweight notebook design. When a host with a Type-C port needs to connect external peripherals such as a keyboard, mouse, USB flash drive, etc., it needs to use a HUB Expand multiple USB ports; when an external network cable is required, the Ethernet interface needs to be expanded through the USB network card chip. When connected to the Internet for a long time, mobile devices are subject to power constraints and need to support charging functions at the same time.
+
+　　Type-C PD fast charging + HUB + network card solution realizes USB2.0 high-speed port expansion and 100M Ethernet interface expansion, and supports Type-C PD charging. This solution mainly includes industrial-grade USB2.0 high-speed 4-port HUB CH334, USB network card chip CH397 and PD chip CH227, with streamlined peripherals. USB2.0 high-speed communication + USB2.0 100M network card expansion + USB PD fast charging three-in-one.
+
+　　main feature
+
+　　1. Support the expansion of Type-C interface functions of mobile phones, computers, and game consoles
+
+　　2. Plug and play, no driver required, USB2.0 high-speed data transmission, RJ45 100M network card for Internet access, PD charging function three-in-one
+
+　　3. Built-in information memory, manufacturer or product information and configuration can be customized in batches according to the special needs of the industry
+
+　　4. CH334 supports high-performance MTT mode, full bandwidth concurrent transmission, and the total bandwidth is 4 times that of STT
+
+　　5. CH397 single chip realizes USB to network card related protocols and communication functions
+
+　　6. CH227 single chip realizes communication and control functions related to PD protocol, with simple peripherals and low cost
+
+　　plan description:
+
+　　CH334: 4-port USB HUB controller chip, multi-port independent parallel MTT structure design, more ports time-sharing STT mode bandwidth theoretically increased by 4 times, -40~85℃ operating range, 6KV high ESD characteristics, high integration, peripheral Simplification can effectively reduce circuit costs.
+
+　　　CH397: Highly integrated, low power consumption USB network card chip. Built-in high-speed USB controller and transceiver PHY, integrated 10M/100M Ethernet transceiver and controller that comply with IEEE802.3 specification. Low cost, easy to use, supports all mainstream operating systems.
+
+　　CH227: A two-way fast charging management chip used for charging and discharging simultaneously with Type-C interface USB communication. Single chip integrates USB PD protocol, supports data role and power role switching, supports dual-port data packet transparent transmission, supports PD2.0, PD3.0, adopts high-voltage process design, supports 20V power supply, built-in LDO, and can provide a maximum charging power of 100W . Built-in PD communication module, high integration and streamlined peripherals.
